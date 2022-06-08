@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1110202101099000677600120090010002719480027194811</numeroAutorizacion>
+<fechaAutorizacion>2021-10-11T20:22:44-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="2.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>INDUSTRIAS ALIMENTICIAS ECUATORIANAS S.A.</razonSocial>
+    <nombreComercial>INALECSA</nombreComercial>
+    <ruc>0990006776001</ruc>
+    <claveAcceso>1110202101099000677600120090010002719480027194811</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>009</estab>
+    <ptoEmi>001</ptoEmi>
+    <secuencial>000271948</secuencial>
+    <dirMatriz>VIA DAULE KM 16.5 S/N PARQUE INDUSTRIAL PASCUALES AV. PRINCIPAL S/N.</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>11/10/2021</fechaEmision>
+    <dirEstablecimiento>AV.ENRIQUE PONCE LUQUE SEGUNDA TRANSVERSAL</dirEstablecimiento>
+    <contribuyenteEspecial>06925</contribuyenteEspecial>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+    <guiaRemision>009-001-000302529</guiaRemision>
+    <razonSocialComprador>LEON STALIN</razonSocialComprador>
+    <identificacionComprador>1203128861</identificacionComprador>
+    <direccionComprador>AV. CAMILO PONCE FRENTE SRI   0</direccionComprador>
+    <totalSinImpuestos>6.27</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalComprobantesReembolso>0</totalComprobantesReembolso>
+    <totalBaseImponibleReembolso>0</totalBaseImponibleReembolso>
+    <totalImpuestoReembolso>0</totalImpuestoReembolso>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>0</codigoPorcentaje>
+        <descuentoAdicional>0</descuentoAdicional>
+        <baseImponible>2.97</baseImponible>
+        <tarifa>0.00</tarifa>
+        <valor>0.00</valor>
+      </totalImpuesto>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>2</codigoPorcentaje>
+        <descuentoAdicional>0</descuentoAdicional>
+        <baseImponible>3.29</baseImponible>
+        <tarifa>12.00</tarifa>
+        <valor>0.39</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <fleteInternacional>0</fleteInternacional>
+    <seguroInternacional>0</seguroInternacional>
+    <gastosAduaneros>0</gastosAduaneros>
+    <gastosTransporteOtros>0</gastosTransporteOtros>
+    <importeTotal>6.66</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>01</formaPago>
+        <total>6.66</total>
+        <plazo>0</plazo>
+        <unidadTiempo>dias</unidadTiempo>
+      </pago>
+    </pagos>
+    <valorRetIva>0</valorRetIva>
+    <valorRetRenta>0</valorRetRenta>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>0144</codigoPrincipal>
+      <descripcion>PAN DE PASCUA INALECSA 420 GR</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>2.98000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>2.98</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>2.98</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>0222</codigoPrincipal>
+      <descripcion>BIZCOTELAS 75 gr.</descripcion>
+      <cantidad>3.000000</cantidad>
+      <precioUnitario>1.09820</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>3.29</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12.00</tarifa>
+          <baseImponible>3.29</baseImponible>
+          <valor>0.40</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoSustitutivaGuiaRemision>
+    <dirPartida>AV.ENRIQUE PONCE LUQUE SEGUNDA TRANSVERSAL</dirPartida>
+    <dirDestinatario>AV. CAMILO PONCE FRENTE SRI   0</dirDestinatario>
+    <fechaIniTransporte>12/10/2021</fechaIniTransporte>
+    <fechaFinTransporte>12/10/2021</fechaFinTransporte>
+    <razonSocialTransportista>GALARZA CORTEZ RUBEN DARIO</razonSocialTransportista>
+    <tipoIdentificacionTransportista>05</tipoIdentificacionTransportista>
+    <rucTransportista>1204406373</rucTransportista>
+    <placa>GSI-5370</placa>
+    <destinos>
+      <destino>
+        <motivoTraslado>VENTA</motivoTraslado>
+        <codEstabDestino>009</codEstabDestino>
+        <ruta>BABAHOYO</ruta>
+      </destino>
+    </destinos>
+  </infoSustitutivaGuiaRemision>
+  <infoAdicional>
+    <campoAdicional nombre="emailCliente">notiene@notiene.com</campoAdicional>
+    <campoAdicional nombre="CodInternoSAP">0022023</campoAdicional>
+    <campoAdicional nombre="CodSociedad">6601</campoAdicional>
+    <campoAdicional nombre="direccion_cliente">AV. CAMILO PONCE FRENTE SRI   0</campoAdicional>
+    <campoAdicional nombre="Sucursal">BABAHOYO</campoAdicional>
+    <campoAdicional nombre="Transaccion">111 CONTADO / EFECTIVO</campoAdicional>
+    <campoAdicional nombre="FecEntrega">12/10/2021</campoAdicional>
+    <campoAdicional nombre="FecPago">12/10/2021</campoAdicional>
+    <campoAdicional nombre="DocInterno">49Q02719481</campoAdicional>
+    <campoAdicional nombre="CodCliente">174273</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature688202">
+<ds:SignedInfo Id="Signature-SignedInfo255772">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID293095" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature688202-SignedProperties825290">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>KG9LZxgZKlefOsbwGJz+4nIKFls=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1442362">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>ODAv0ieQ3nn66N4hI/xX+6WdYBc=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-631195" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>7Zw3iUrEp58eYaiovk3bQYY/s3I=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue550462">
+hQoNAN0fSof91ZAM9dx00L01Wp7CCtfSKlUS3qSLg9e9XUeVGqfgGdnvWsbjlqMf2VmO+QJJEFdq
+1r30SDKgVwpciPfjGNfMXO97F6oqNTaeMUtzNIWW66Egz+PuW0KSmjiZYB8fBQ9y1X8yZMvZBDeP
+Rr+trqVeBoI09ek8z/qILi9Z3yi1wf0RHG/sj8mgcCVn9p3Ni44TGpHBTAdf35mByeANlQmYl0jn
+htqyG2JCdTeMHlUQZPNwgMNV1R8t1cfekulmDrb8YLpVbN6K+VkpF1mmPBB9zI9jwHFc+LFCN5zl
++WEOnNVBFSepOB65LTfezyvKm7dtmoP7dDHDPw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1442362">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIMFDCCCfygAwIBAgIEZo3iqjANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMTEwMDYyMjQyMzNaFw0yMzEwMDYyMjQyMzNaMIGeMScw
+JQYDVQQDDB5CRUxMQSBTVEVQSEFOSUEgU1VBUkVaIERFTEdBRE8xFTATBgNVBAUTDDA2MTAyMTE3
+NTIyNjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMR0w
+GwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQCcMZkFtnOV6DjKir9PBXtJJnu0IN8yBqDwig/og7lEDAexHy9G57a+
+oINtIldmt465fMKSuoNoCI/S5UAK7r+IuGFy5nrYMTsbpT9veDQtAbwc8ngcR6FZOhT+iz1AABqI
+JeYXZdsoFyVsDvTmGruGLEYBkfA4keOqI88b2Nxc8obbzA2SmP5n24hUnuXrFBk3dA9U0cMIm/cv
+xYcE2ImsmiHZC5DmwtNjRkMo+EW396bDYQEO9n7MwONn72yvzM3CA2cSnZy+qBVkHa3j7C3XvTcS
+PZR9LlMzsLF/YPxC7v4soXSpQJB6/p39HfI/h/L+H4GtsKL/e/BdikXr1ZiZAgMBAAGjggdbMIIH
+VzAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWAHWsKS1W/ja5i3b2PMFkGCCsGAQUF
+BwEBBE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0LmVjL2Vq
+YmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDCBzwYDVR0uBIHHMIHEMIHBoIG+oIG7hoG4bGRhcDov
+L2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FD
+SU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUg
+SU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2RlbHRhUmV2b2NhdGlvbkxp
+c3Q/YmFzZTAfBgNVHREEGDAWgRRiZWxsYTI5OUBob3RtYWlsLmNvbTCCARIGA1UdIASCAQkwggEF
+MGAGCisGAQQBgqZyAgowUjBQBggrBgEFBQcCAjBEHkIAQwBlAHIAdABpAGYAaQBjAGEAZABvACAA
+ZABlACAATQBpAGUAbQBiAHIAbwAgAGQAZQAgAEUAbQBwAHIAZQBzAGEwgaAGCisGAQQBgqZyAgQw
+gZEwgY4GCCsGAQUFBwIBFoGBaHR0cHM6Ly93d3cuc2VjdXJpdHlkYXRhLm5ldC5lYy93cC1jb250
+ZW50L2Rvd25sb2Fkcy9Ob3JtYXRpdmFzL1BfZGVfQ2VydGlmaWNhZG9zL1BvbGl0aWNhcyBkZSBD
+ZXJ0aWZpY2FkbyBNaWVtYnJvIGRlIEVtcHJlc2EucGRmMIICogYDVR0fBIICmTCCApUwgeWgQaA/
+hj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1
+cy9vY3NwooGfpIGcMIGZMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJD
+QS0yIFNFQ1VSSVRZIERBVEExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJ
+TkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIHH
+oIHEoIHBhoG+bGRhcDovL2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURB
+RCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENF
+UlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2Nl
+cnRpZmljYXRlUmV2b2NhdGlvbkxpc3Q/YmFzZTCB4KCB3aCB2oaB12h0dHBzOi8vcG9ydGFsLW9w
+ZXJhZG9yMi5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi93ZWJkaXN0L2NlcnRk
+aXN0P2NtZD1jcmwmaXNzdWVyPUNOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIg
+U0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04s
+Tz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDMB0GA1UdDgQWBBSb9f8L+d28w4Gz9Ai9FaXtrV8a
+WDArBgNVHRAEJDAigA8yMDIxMTAwNjIyNDIzM1qBDzIwMjMxMDA2MjI0MjMzWjALBgNVHQ8EBAMC
+BeAwIQYKKwYBBAGCpnIDBQQTDBFDT05UQURPUkEgR0VORVJBTDAaBgorBgEEAYKmcgMBBAwMCjA5
+MjQ5MzcwMDYwGQYKKwYBBAGCpnIDCQQLDAlHVUFZQVFVSUwwEQYKKwYBBAGCpnIDIgQDDAEuMCIG
+CisGAQQBgqZyAwcEFAwSIEFWLiBQUklOQ0lQQUwgUyBOMB8GCisGAQQBgqZyAwIEEQwPQkVMTEEg
+U1RFUEhBTklBMB8GCisGAQQBgqZyAyAEEQwPMDAxMDAyMDAwMTU1MTUyMBMGCisGAQQBgqZyAyEE
+BQwDUEZYMBcGCisGAQQBgqZyAwwECQwHRUNVQURPUjAWBgorBgEEAYKmcgMDBAgMBlNVQVJFWjBC
+BgorBgEEAYKmcgMKBDQMMklORFVTVFJJQVMgQUxJTUVOVElDSUFTIEVDVUFUT1JJQU5BUyBTLkEu
+IElOQUxFQ1NBMB0GCisGAQQBgqZyAwsEDwwNMDk5MDAwNjc3NjAwMTASBgorBgEEAYKmcgMdBAQM
+Ak5vMBcGCisGAQQBgqZyAwQECQwHREVMR0FETzAaBgorBgEEAYKmcgMIBAwMCjA5ODEwMTQ3MDcw
+DQYJKoZIhvcNAQELBQADggIBABc9PT0PeQwMGty6yeFstWGd1EU8uBEk59CAEIkz8k0SBgLjp4WK
++05PZofyviKInOpQxgvyBMxJ8aYGHQ/f9O2gQFomhSGwzVhcGQPf0Zfl43Gnb+1hjxahWAJYOUhp
+OC8Rk6Ga5fKxk9MjL3f62qtXRP9Aq/aBJzQ2lFzqvHsKea8YgYDNSaCe5Q+sXPxu03cfSmmdOdQg
+Iv24zaMuexAVzCXDnVRYZWzmOY4kV3RHOsEg7S88IRe9B6sa5SVcm8E2JUmHSUBXiMkbc8AL8BJs
+PM8gH+C7Vp5guda70gp5N7icakkxs9muNa67v74u6TMaUE1QDobm1qjG8Z/aBiWfpSV8bvXe/m9z
+PM90SArptsOVsL7tDelA0GGpW3DzCkydmhpGMw7Hc6UuD5/Pi54ZMZv1bb8SI9p0UMdUKKCZG5TD
+jmqyST0gnbGw82NXY0ugTsHT/GdFoVTstAXIQ9opHXLQ9S7FhzTY3j3ofLfhWi2dGUSuCIldBDNL
+0jNXIO4u3X8OfHuiO8B4/GwCvQ3oyfFSZWOky4QtR0HA8iryna8B0d2SlhK8W+kRNJek6ppWiZ4x
+PKNT7Gm/fA9edjZUFEH44/xxIJJIEj2EPIxzHKQvOV+ico2lp1ihHlT8396yneZqInMRfDl8XD/k
+dm4AHyYI4b3l+bIpfQ0VRDyT
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+nDGZBbZzleg4yoq/TwV7SSZ7tCDfMgag8IoP6IO5RAwHsR8vRue2vqCDbSJXZreOuXzCkrqDaAiP
+0uVACu6/iLhhcuZ62DE7G6U/b3g0LQG8HPJ4HEehWToU/os9QAAaiCXmF2XbKBclbA705hq7hixG
+AZHwOJHjqiPPG9jcXPKG28wNkpj+Z9uIVJ7l6xQZN3QPVNHDCJv3L8WHBNiJrJoh2QuQ5sLTY0ZD
+KPhFt/emw2EBDvZ+zMDjZ+9sr8zNwgNnEp2cvqgVZB2t4+wt1703Ej2UfS5TM7Cxf2D8Qu7+LKF0
+qUCQev6d/R3yP4fy/h+BrbCi/3vwXYpF69WYmQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature688202-Object876590"><etsi:QualifyingProperties Target="#Signature688202"><etsi:SignedProperties Id="Signature688202-SignedProperties825290"><etsi:SignedSignatureProperties><etsi:SigningTime>2021-10-11T20:22:02-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>pLbmECIFeFg2lzln6lEuh0SsTpU=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1720574634</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-631195"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+
